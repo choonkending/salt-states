@@ -1,8 +1,7 @@
 ### /srv/salt/nginx/rproxy.sls ###
 ##################################
 
-### Install Nginx and configure it as a reverse proxy, pulling the IPs of
-### the app servers from the Salt Mine.
+### Install Nginx and configure it as a reverse proxy
 
 nginx-rproxy:
   # Install Nginx
