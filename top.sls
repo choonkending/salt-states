@@ -1,3 +1,3 @@
 base:
   '*':
-    - node
+    - server.prod
